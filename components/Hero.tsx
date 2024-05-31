@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Jabbar, a Next.js Developer based in Ghana.
+            Hi! I&apos;m Jabbar, a Junior Developer <span className="bold">with no industrial Experience</span> based in Ghana.
           </p>
 
           <a href="#about">

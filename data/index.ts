@@ -72,11 +72,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Learning Platform",
+    des: "Explore the best Learning Platform in town.",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/integral-lms-zeta.vercel.app",
+    iconLists: ["/nextjs-icon.svg", "/tailwind-css-icon.png", "/typescript-programming-language-icon.svg", "/stripe-icon.svg", "/fm.svg"],
+    link: "/ui.earth.com",
   },
   {
     id: 2,

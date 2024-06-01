@@ -72,6 +72,7 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    name:"Learning Platform",
     title: "Learning Platform",
     des: "Explore the best Learning Platform in town.",
     img: "/Screenshot from 2024-06-01 18-01-35.png",
@@ -80,14 +81,16 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    name:"Ridge Hospital",
+    title: "Ridge Hospital",
+    des: "Welcome to Ridge Hospital! We pride ourselves on being one of the leading hospitals in Ghana.",
     img: "/p2.svg",
     iconLists: ["/nextjs-icon.svg", "/tailwind-css-icon.png", "/typescript-programming-language-icon.svg", "/stripe-icon.svg", "/mysql-icon.svg"],
-    link: "/ui.yoom.com",
+    link: "https://ridge-hospital.vercel.app",
   },
   {
     id: 3,
+    name:"Saas",
     title: "AI Image SaaS - Canva Application",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
@@ -97,6 +100,7 @@ export const projects = [
   },
   {
     id: 4,
+    name:"Saas",
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/s1.png",

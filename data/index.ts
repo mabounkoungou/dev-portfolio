@@ -84,7 +84,7 @@ export const projects = [
     name:"Ridge Hospital",
     title: "Ridge Hospital",
     des: "Welcome to Ridge Hospital! We pride ourselves on being one of the leading hospitals in Ghana.",
-    img: "/p2.svg",
+    img: "/ridge.png",
     iconLists: ["/nextjs-icon.svg", "/tailwind-css-icon.png", "/typescript-programming-language-icon.svg", "/stripe-icon.svg", "/mysql-icon.svg"],
     link: "https://ridge-hospital.vercel.app",
   },

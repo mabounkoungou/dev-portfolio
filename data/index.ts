@@ -76,7 +76,7 @@ export const projects = [
     des: "Explore the best Learning Platform in town.",
     img: "/Screenshot from 2024-06-01 18-01-35.png",
     iconLists: ["/nextjs-icon.svg", "/tailwind-css-icon.png", "/typescript-programming-language-icon.svg", "/stripe-icon.svg", "/mysql-icon.svg"],
-    link: "/ui.earth.com",
+    link: "https://integral-lms-zeta.vercel.app",
   },
   {
     id: 2,
@@ -100,9 +100,9 @@ export const projects = [
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/s1.png",
-    iconLists: ["/nextjs-icon.svg", "/tailwind-css-icon.png", "/typescript-programming-language-icon.svg", "/gsap.svg", 
-    "/three-js-icon.svg"],
-    link: "/ui.apple.com",
+    iconLists: ["/nextjs-icon.svg", "/tailwind-css-icon.png", "/typescript-programming-language-icon.svg", "/prisma-2.svg", 
+    "/gsap-greensock.svg"],
+    link: "https://apple-web-eight.vercel.app",
   },
 ];
 

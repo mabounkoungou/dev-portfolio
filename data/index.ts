@@ -74,8 +74,8 @@ export const projects = [
     id: 1,
     title: "Learning Platform",
     des: "Explore the best Learning Platform in town.",
-    img: "/p1.svg",
-    iconLists: ["/nextjs-icon.svg", "/tailwind-css-icon.png", "/typescript-programming-language-icon.svg", "/stripe-icon.svg", "/fm.svg"],
+    img: "/Screenshot from 2024-06-01 18-01-35.png",
+    iconLists: ["/nextjs-icon.svg", "/tailwind-css-icon.png", "/typescript-programming-language-icon.svg", "/stripe-icon.svg", "/mysql-icon.svg"],
     link: "/ui.earth.com",
   },
   {

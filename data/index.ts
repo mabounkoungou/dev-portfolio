@@ -23,8 +23,8 @@ export const gridItems = [
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-start",
-    img: "",
-    spareImg: "",
+    img: "/hand-watch-icon.svg",
+    spareImg: "/hand-watch-icon.svg",
   },
   {
     id: 3,
@@ -33,8 +33,8 @@ export const gridItems = [
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
-    img: "",
-    spareImg: "",
+    img: "/sc.png",
+    spareImg: "/sc.png",
   },
   {
     id: 4,
